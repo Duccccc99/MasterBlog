@@ -1,0 +1,160 @@
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\appsettings.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.exe
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.deps.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.runtimeconfig.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Data.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Core.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Data.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.AssemblyReference.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.AssemblyInfoInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.AssemblyInfo.cs
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.CoreCompileInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.MasterBlog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.MasterBlog.Api.props
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MasterBlog.Api.props
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MasterBlog.Api.props
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\scopedcss\bundle\MasterBlog.Api.styles.css
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.CopyComplete
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\refint\MasterBlog.Api.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.genruntimeconfig.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\ref\MasterBlog.Api.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.exe
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.deps.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.runtimeconfig.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Api.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Core.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\bin\Debug\net8.0\MasterBlog.Data.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.AssemblyReference.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.AssemblyInfoInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.AssemblyInfo.cs
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.MasterBlog.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.MasterBlog.Api.props
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MasterBlog.Api.props
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MasterBlog.Api.props
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\scopedcss\bundle\MasterBlog.Api.styles.css
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.csproj.CopyComplete
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\refint\MasterBlog.Api.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\MasterBlog.Api.genruntimeconfig.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Api\obj\Debug\net8.0\ref\MasterBlog.Api.dll

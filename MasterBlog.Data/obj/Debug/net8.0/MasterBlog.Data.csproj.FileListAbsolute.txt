@@ -1,0 +1,36 @@
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\appsettings.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.deps.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.runtimeconfig.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Core.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.AssemblyReference.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.AssemblyInfoInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.AssemblyInfo.cs
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.CoreCompileInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.CopyComplete
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\refint\MasterBlog.Data.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.genruntimeconfig.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\ref\MasterBlog.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\appsettings.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.deps.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.runtimeconfig.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Data.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\bin\Debug\net8.0\MasterBlog.Core.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.AssemblyReference.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.AssemblyInfoInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.AssemblyInfo.cs
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.csproj.CopyComplete
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\refint\MasterBlog.Data.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\MasterBlog.Data.genruntimeconfig.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Data\obj\Debug\net8.0\ref\MasterBlog.Data.dll

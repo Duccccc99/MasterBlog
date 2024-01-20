@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MasterBlog.App.props" />
+</Project>

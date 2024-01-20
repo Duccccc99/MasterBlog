@@ -1,0 +1,24 @@
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.deps.json
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.csproj.AssemblyReference.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.AssemblyInfoInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.AssemblyInfo.cs
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.csproj.CoreCompileInputs.cache
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\refint\MasterBlog.Core.dll
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.pdb
+F:\souce\NetCore\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\ref\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.deps.json
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\bin\Debug\net8.0\MasterBlog.Core.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.csproj.AssemblyReference.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.AssemblyInfoInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.AssemblyInfo.cs
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\refint\MasterBlog.Core.dll
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\MasterBlog.Core.pdb
+C:\Users\Tu\Documents\Zalo Received Files\MasterBlog\MasterBlog\src\MasterBlog.Core\obj\Debug\net8.0\ref\MasterBlog.Core.dll

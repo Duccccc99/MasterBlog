@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e6h0dKHBHgknIXcLBmV32mLidgMPvbbt9DoQsUtCAcU=",
+  "Source": "MasterBlog.Api",
+  "BasePath": "_content/MasterBlog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
